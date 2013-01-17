@@ -4,6 +4,7 @@
   "majorVersion": 1,
   "minorVersion": 0,
   "patchVersion": 0,
+  "runnable": 0,
   "machineName": "EmbeddedJS",
   "author": "Jupiter",
   "license": "MIT",

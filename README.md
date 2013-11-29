@@ -1,6 +1,6 @@
 ## H5P Embedded Javascript
 
-This is EJS with a H5P library description. This makes it possible to use EJS inside HTML5 Packages.
+This is EJS with a H5P library description. This makes it possible to use EJS inside H5P.
 
 ## License
 
